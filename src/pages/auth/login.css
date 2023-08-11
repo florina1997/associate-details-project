@@ -1,0 +1,11 @@
+.login-container {
+  background-image: url("../../assets/17973908.jpg");
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.login-card {
+  margin-top: 10rem;
+  height: 40vh;
+}

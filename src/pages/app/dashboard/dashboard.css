@@ -1,0 +1,4 @@
+.dash-container {
+  padding: 1.5rem;
+  height: calc(100% - 50px);
+}
